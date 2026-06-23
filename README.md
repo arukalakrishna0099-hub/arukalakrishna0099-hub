@@ -56,8 +56,7 @@ Data Science Student • Python Developer • AI & Data Science Enthusiast • A
 
 ⚡ Fun Fact
 
-> I once fixed a bug at **2 AM** and celebrated with a victory dance. 🕺
-
+ I treat every new technology like a challenge—learn it, build with it, and share it.
 ---
 
 # 🌱 Currently Exploring
