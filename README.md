@@ -1,27 +1,265 @@
-# 💫 About Me:
-🔭 I'm currently working on a improving my DSA logic<br>👯 I'm looking to collaborate on open-source beginner projects<br>🤝 I'm looking for help with backend development & APIs<br>🌱 I'm currently learning react and node.js , pandas and numpy<br>💬 Ask me about Python, HTML/CSS, Java<br>⚡ Fun fact I once fixed a bug at 2am and did a victory dance
+<h1 align="center">Hi 👋, I'm Krishna Arukala</h1>
 
+<h3 align="center">
+Data Science Student • Python Developer • AI & Data Science Enthusiast • Aspiring Data Analyst
+</h3>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/krishna_arukala) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/krishna-arukala0406/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arukala.krishna0099@gmail.com) 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=AI+%26+Data+Science+Student;Python+Developer;Machine+Learning+Enthusiast;Building+Projects+That+Solve+Real-World+Problems;Always+Learning+Something+New" />
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=arukalakrishna0099-hub&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=arukalakrishna0099-hub&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=arukalakrishna0099-hub&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=arukalakrishna0099-hub&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=arukalakrishna0099-hub&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+<a href="https://www.linkedin.com/in/krishna-arukala0406">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<a href="YOUR_PORTFOLIO_LINK">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
+</a>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=arukalakrishna0099-hub&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<a href="https://github.com/arukalakrishna0099-hub">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:arukala.krishna0099@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=arukalakrishna0099-hub&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🚀 About Me
+
+🎓 **B.Tech in Computer Science & Engineering (Data Science)**
+
+🏫 **Swami Vivekananda Institute of Technology, Secunderabad**
+
+📈 **CGPA:** **8.9 / 10**
+
+💼 **Python Programming Intern at Oasis Infobyte**
+
+🔭 Currently improving my **Data Structures & Algorithms** skills.
+
+🌱 Learning **React.js, Node.js, Pandas, NumPy, and Backend Development**
+
+🤝 Looking to collaborate on **Open Source Projects**
+
+💬 Ask me about
+
+- Python
+- Java
+- HTML/CSS
+- JavaScript
+- Machine Learning
+- Data Analytics
+
+⚡ Fun Fact
+
+> I once fixed a bug at **2 AM** and celebrated with a victory dance. 🕺
+
+---
+
+# 🌱 Currently Exploring
+
+- Data Structures & Algorithms
+
+- React.js
+
+- Node.js
+
+- REST APIs
+
+- Machine Learning
+
+- Data Analytics
+
+- Deep Learning Fundamentals
+
+- Open Source Contributions
+
+---
+
+# 💼 Experience
+
+### Python Programming Intern
+
+**Oasis Infobyte**
+
+- Developed Python applications.
+- Built real-world programming projects.
+- Improved debugging and problem-solving skills.
+- Worked with clean coding practices.
+
+---
+
+# 💻 Tech Stack
+
+## Programming Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,java,c,cs,javascript"/>
+
+</p>
+
+## Frontend Development
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,react"/>
+
+</p>
+
+## Backend Development
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+
+</p>
+
+## Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres"/>
+
+</p>
+
+## AI / Machine Learning
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+
+</p>
+
+## Cloud & Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=aws,azure,git,github,vscode,figma"/>
+
+</p>
+
+---
+
+# 📂 Featured Projects
+
+### 🌐 Portfolio Website
+
+A modern responsive portfolio showcasing my projects and technical skills.
+
+---
+
+### 📊 Flight Delay Prediction
+
+Machine Learning model to predict airline flight delays using real-world datasets.
+
+---
+
+### ⚖️ BMI Calculator
+
+Python application that calculates BMI with proper input validation.
+
+---
+
+### 🤖 More Projects Coming Soon...
+
+Currently working on AI, Web Development, and Open Source Projects.
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=arukalakrishna0099-hub&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arukalakrishna0099-hub&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=arukalakrishna0099-hub&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=arukalakrishna0099-hub&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arukalakrishna0099-hub&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+> **Note:** This requires a GitHub Action to generate automatically.
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/krishna-arukala0406">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:arukala.krishna0099@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_LINK">
+<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox"/>
+</a>
+
+<a href="https://github.com/arukalakrishna0099-hub">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+<h3 align="center">
+
+⭐ Thanks for visiting my profile! ⭐
+
+</h3>
+
+<p align="center">
+
+<i>"Code. Learn. Build. Repeat."</i>
+
+</p>
