@@ -190,15 +190,13 @@ Currently working on AI, Web Development, and Open Source Projects.
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏅 GitHub Achievements
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=arukalakrishna0099-hub&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4"/>
-
+  <a href="https://github.com/arukalakrishna0099-hub?tab=achievements">
+    <img src="https://img.shields.io/badge/View%20My%20GitHub%20Achievements-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
-
----
 
 # 📈 Contribution Graph
 
