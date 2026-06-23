@@ -192,11 +192,28 @@ Currently working on AI, Web Development, and Open Source Projects.
 
 ## 🏅 GitHub Achievements
 
-<p align="center">
-  <a href="https://github.com/arukalakrishna0099-hub?tab=achievements">
-    <img src="https://img.shields.io/badge/View%20My%20GitHub%20Achievements-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+<h2 align="center">🏅 GitHub Achievements</h2>
+
+<table align="center">
+<tr>
+
+<td align="center">
+<img src="assets/pull-shark.png" width="120"><br>
+<b>Pull Shark</b>
+</td>
+
+<td align="center">
+<img src="assets/yolo.png" width="120"><br>
+<b>YOLO</b>
+</td>
+
+<td align="center">
+<img src="assets/quickdraw.png" width="120"><br>
+<b>Quickdraw</b>
+</td>
+
+</tr>
+</table>
 
 # 📈 Contribution Graph
 
