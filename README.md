@@ -189,6 +189,12 @@ Currently working on AI, Web Development, and Open Source Projects.
 </p>
 
 ---
+## 🏅 GitHub Achievements
+
+<p align="center">
+  <img src="./assets/github-achievements.png" alt="GitHub Achievements" width="100%" />
+</p>
+---
 
 # 📈 Contribution Graph
 
