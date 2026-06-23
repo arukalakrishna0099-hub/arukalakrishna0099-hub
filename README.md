@@ -240,9 +240,6 @@ Currently working on AI, Web Development, and Open Source Projects.
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_LINK">
-<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox"/>
-</a>
 
 <a href="https://github.com/arukalakrishna0099-hub">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
