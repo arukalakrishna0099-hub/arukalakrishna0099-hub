@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Krishna Arukala</h1>
 
 <h3 align="center">
-Data Science Student • Python Developer • Data Science Enthusiast • Aspiring Data Analyst
+Data Science Student • Python Developer • AI & Data Science Enthusiast • Aspiring Data Analyst
 </h3>
 
 <p align="center">
