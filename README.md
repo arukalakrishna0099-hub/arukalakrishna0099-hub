@@ -215,7 +215,6 @@ Currently working on AI, Web Development, and Open Source Projects.
 
 </p>
 
-> **Note:** This requires a GitHub Action to generate automatically.
 
 ---
 
