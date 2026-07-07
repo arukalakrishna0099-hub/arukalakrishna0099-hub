@@ -173,17 +173,27 @@ Currently working on AI, Web Development, and Open Source Projects.
 
 ---
 
-
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=arukalakrishna0099-hub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=arukalakrishna0099-hub&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+    alt="Krishna's GitHub Stats"
+  />
 
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=arukalakrishna0099-hub&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=arukalakrishna0099-hub&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    alt="Top Languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=arukalakrishna0099-hub&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com?user=arukalakrishna0099-hub&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 
