@@ -214,16 +214,8 @@ Currently working on AI, Web Development, and Open Source Projects.
 # 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/arukalakrishna0099-hub/arukalakrishna0099-hub/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-
+  <img src="https://raw.githubusercontent.com/arukalakrishna0099-hub/arukalakrishna0099-hub/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
-
-> **Note:** The contribution snake requires a GitHub Action to generate automatically.
-
----
-
-> **Note:** This requires a GitHub Action to generate automatically.
 
 ---
 
