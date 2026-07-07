@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Krishna Arukala</h1>
 
 <h3 align="center">
@@ -171,41 +172,36 @@ Python application that calculates BMI with proper input validation.
 Currently working on AI, Web Development, and Open Source Projects.
 
 ---
----
 
 # 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=arukalakrishna0099-hub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=arukalakrishna0099-hub&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=arukalakrishna0099-hub&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arukalakrishna0099-hub&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=arukalakrishna0099-hub&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=arukalakrishna0099-hub&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
-
 ## 🏅 GitHub Achievements
-
-> **Note:** Ensure the image exists at `assets/github-achievements.png` inside this repository.
 
 <p align="center">
   <img src="./assets/github-achievements.png" alt="GitHub Achievements" width="100%" />
 </p>
-
 ---
 
 # 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arukalakrishna0099-hub&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arukalakrishna0099-hub&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -214,8 +210,12 @@ Currently working on AI, Web Development, and Open Source Projects.
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/arukalakrishna0099-hub/arukalakrishna0099-hub/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
 </p>
+
+> **Note:** This requires a GitHub Action to generate automatically.
 
 ---
 
@@ -251,3 +251,4 @@ Currently working on AI, Web Development, and Open Source Projects.
 <i>"Code. Learn. Build. Repeat."</i>
 
 </p>
+this is my read me file and it is not seen to everyone if they open my github profile 
