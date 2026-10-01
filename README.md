@@ -36,7 +36,7 @@ Data Science Student • Python Developer • AI & Data Science Enthusiast • A
 
 🏫 **Swami Vivekananda Institute of Technology, Secunderabad**
 
-📈 **CGPA:** **8.9 / 10**
+📈 **CGPA:** **9.0 / 10**
 
 💼 **Python Programming Intern at Oasis Infobyte**
 
