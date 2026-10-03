@@ -182,13 +182,11 @@ Currently working on AI, Web Development, and Open Source Projects.
 
 ---
 
-# 📈 Contribution Graph
+## 📈 My GitHub Contributions
 
-<p align="center">
+You can view my GitHub contributions directly on my profile below.
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arukalakrishna0099-hub&theme=tokyo-night&hide_border=true"/>
-
-</p>
+[![GitHub Profile](https://img.shields.io/badge/View%20GitHub%20Contributions-181717?style=for-the-badge&logo=github)](https://github.com/arukalakrishna0099-hub)
 
 ---
 
