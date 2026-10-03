@@ -10,7 +10,7 @@ Data Science Student • Python Developer • AI & Data Science Enthusiast • A
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arukalakrishna0099-hub&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=arukalakrishna0099-hub &label=PROFILE+VIEWS& color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <p align="center">
