@@ -207,11 +207,6 @@ Currently working on AI, Web Development, and Open Source Projects.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arukalakrishna0099-hub&layout=compact&theme=dark&hide_border=true&langs_count=8" height="180"/>
 
 </td>
-<td>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arukalakrishna0099-hub&theme=github-compact&hide_border=true" height="180"/>
-
-</td>
 </tr>
 </table>
 
