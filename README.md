@@ -181,14 +181,41 @@ Currently working on AI, Web Development, and Open Source Projects.
 
 
 ---
+## 📊 GitHub Stats
 
-# 📈 Contribution Graph
+<div align="center">
 
-<p align="center">
+### GitHub Statistics
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arukalakrishna0099-hub&theme=tokyo-night&hide_border=true"/>
+<table>
+<tr>
+<td>
 
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=arukalakrishna0099-hub&show_icons=true&theme=dark&hide_border=true&count_private=true" height="180"/>
+
+</td>
+<td>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arukalakrishna0099-hub&theme=dark&hide_border=true" height="180"/>
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arukalakrishna0099-hub&layout=compact&theme=dark&hide_border=true&langs_count=8" height="180"/>
+
+</td>
+<td>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arukalakrishna0099-hub&theme=github-compact&hide_border=true" height="180"/>
+
+</td>
+</tr>
+</table>
+
+</div>
 ---
 
 # 🐍 Contribution Snake
